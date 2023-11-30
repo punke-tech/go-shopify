@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	httpmock "gopkg.in/jarcoal/httpmock.v1"
+	httpmock "gopkg.in/jarcoal/httpmock.v1.3.1"
 )
 
 func MetafieldTests(t *testing.T, metafield Metafield) {
