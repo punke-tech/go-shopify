@@ -13,7 +13,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/jarcoal/httpmock.v1.3.1"
+	httpmock "github.com/jarcoal/httpmock"
 )
 
 var (
