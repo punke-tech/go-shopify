@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	httpmock "github.com/jarcoal/httpmock"
+	"github.com/jarcoal/httpmock"
 )
 
 func smartCollectionTests(t *testing.T, collection SmartCollection) {

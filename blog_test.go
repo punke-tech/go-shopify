@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	httpmock "github.com/jarcoal/httpmock"
+	"github.com/jarcoal/httpmock"
 )
 
 func TestBlogList(t *testing.T) {

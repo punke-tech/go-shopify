@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	httpmock "github.com/jarcoal/httpmock"
+	"github.com/jarcoal/httpmock"
 )
 
 func assetTests(t *testing.T, asset Asset) {

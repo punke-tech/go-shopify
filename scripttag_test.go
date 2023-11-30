@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/jarcoal/httpmock.v1.3.1"
+	"github.com/jarcoal/httpmock"
 )
 
 func TestScriptTagList(t *testing.T) {

@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	httpmock "github.com/jarcoal/httpmock"
+	"github.com/jarcoal/httpmock"
 	"github.com/shopspring/decimal"
 )
 
