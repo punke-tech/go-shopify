@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
+	"github.com/jarcoal/httpmock.v1.3.1"
 	"github.com/shopspring/decimal"
-	"gopkg.in/jarcoal/httpmock.v1.3.1"
 )
 
 // applicationChargeTests tests if the fields are properly parsed.

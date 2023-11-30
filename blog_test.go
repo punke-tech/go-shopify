@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"gopkg.in/jarcoal/httpmock.v1.3.1"
+	httpmock "github.com/jarcoal/httpmock.v1.3.1"
 )
 
 func TestBlogList(t *testing.T) {

@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	httpmock "gopkg.in/jarcoal/httpmock.v1.3.1"
+	httpmock "github.com/jarcoal/httpmock.v1.3.1"
 )
 
 func customCollectionTests(t *testing.T, collection CustomCollection) {

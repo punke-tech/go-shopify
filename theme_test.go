@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"gopkg.in/jarcoal/httpmock.v1.3.1"
+	"github.com/jarcoal/httpmock.v1.3.1"
 )
 
 func TestThemeList(t *testing.T) {
